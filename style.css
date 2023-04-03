@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.header{
+    height: 150px;
+    width: 100%;
+    background:lightpink;
+}
+
+.navigation-bar{
+    padding: 5px 0;
+    width: 100%;
+    background: darkviolet;  
+}
+
+.da-flex{
+    display: flex;
+}
+.left-panel{
+    height: 300px;
+    width: 15%;
+    background: palevioletred;
+    
+}
+.main-content{
+    height: 300px;
+    width: 70%;
+    background: lightyellow;
+    
+}
+.right-panel{
+    height: 300px;
+    width: 15%;
+    background: palevioletred;
+    
+
+}
+.Footer{
+    height: 150px;
+    width: 100%;
+    background: purple;
+}
